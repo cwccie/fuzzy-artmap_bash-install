@@ -2,7 +2,9 @@
 
 - This bash file will install Fuzzy ARTMAP python and associated dependencies
 
-- The included Bash file (famsetup.sh) is meant to install Fuzzy ARTMAP (FAM) on Linux. This bash file was tested on a new install of Ubuntu 22.03 server via CLI. Follow the steps below and be aware that this bash file does include an option for Samba setup, which can be useful if you intend to use local datasets.
+- The included Bash file (famsetup.sh) is meant to install Fuzzy ARTMAP (FAM) on Linux. This bash file was tested on a new install of Ubuntu 22.04 server via CLI.
+- Ubuntu Server 22.04 can be downloaded here: https://releases.ubuntu.com/22.04.3/ubuntu-22.04.3-live-server-amd64.iso
+- Follow the steps below and be aware that this bash file does include an option for Samba setup, which can be useful if you intend to use local datasets.
 
 # Install Steps
 
