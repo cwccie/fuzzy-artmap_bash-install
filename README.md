@@ -22,13 +22,23 @@ sudo ./famsetup.sh # Run the script
 Successful completion will produce an output similar to the following:
 
 2024-01-18 16:38:24,480 - fuzzy_artmap.fuzzy_artmap_distributed_gpu - INFO - worker params: committed beta = 0.75
+
 2024-01-18 16:38:24,480 - fuzzy_artmap.fuzzy_artmap_distributed_gpu - INFO - f1_size: 4, f2_size:1, committed beta = 0.75
+
 2024-01-18 16:38:24,480 - fuzzy_artmap.fuzzy_artmap_distributed_gpu - INFO - Workers initialized
+
 2024-01-18 16:38:24.480519
+
 tensor([[1., 0.]])
+
 tensor([[0., 1.]])
+
 elapsed: 0:00:00.748817- 2024-01-18 16:38:25.229336
+
 Counter({True: 917, False: 83})
+
 torch.Size([51, 4])
+
 torch.Size([51, 2])
+
 tensor(18)
